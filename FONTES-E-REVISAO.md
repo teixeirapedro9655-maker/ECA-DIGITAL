@@ -1,6 +1,6 @@
 # Registro de fontes e revisão
 
-Data de consulta e revisão: 19/10/2026. Este é um guia educativo independente; não é reprodução integral da lei nem parecer sobre um caso específico.
+Data de consulta e revisão: 19/10/2026. Este é um guia educativo de um projeto de extensão; não é reprodução integral da lei nem parecer sobre um caso específico.
 
 ## Fontes primárias
 
@@ -46,3 +46,7 @@ Data de consulta e revisão: 19/10/2026. Este é um guia educativo independente;
 ## Verificação técnica desta entrega
 
 Conferidos: sintaxe JavaScript; estrutura HTML; IDs e referências locais; arquivos SVG; presença das seções, 14 temas e 3 mapas; integridade do ZIP. Caminhos relativos foram mantidos para GitHub Pages de projeto. Não foi realizada inspeção visual em navegador neste ambiente. Faça a conferência final no computador e no celular após abrir o arquivo ou publicar.
+
+## Identidade acadêmica
+
+Identificação do projeto, instituição, semestre, integrantes, tema e objetivo fornecidos pelo usuário em 19/10/2026. Logo horizontal fornecido como `image(7).png`, preservado sem alteração e incluído como `assets/urcamp-logo.png`. Crédito de desenvolvimento: Pedro Lucas Fantinel Teixeira.
